@@ -1,0 +1,13 @@
+{
+  "name": "KGN Computer's and Mobile Service's",
+  "short_name": "KGN Computers",
+  "description": "Laptop, desktop and mobile hardware repair in Palshi, Shirwal.",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0B1E56",
+  "icons": [
+    { "src": "img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "img/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
